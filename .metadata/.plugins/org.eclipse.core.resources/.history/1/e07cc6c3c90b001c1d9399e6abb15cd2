@@ -1,0 +1,5 @@
+package gmc.project.textnchatusers.controllers;
+
+public class UserController {
+
+}
