@@ -1,6 +1,0 @@
-package gmc.project.textnchatusers.controllers;
-
-@RestController
-public class UserController {
-
-}
